@@ -1,8 +1,12 @@
 body{
   margin: 0;
   padding: 0;
-  background: url(bg.jpg) no-repeat;
+  background: url(bg.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
   background-size: cover;
+  background-attachment: fixed;
+  background-color: #464646;
 }
 .box{
   width: 450px;
