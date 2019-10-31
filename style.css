@@ -2,6 +2,9 @@
   body {
       height: 100vh;
       background-size: 100%;
+    }
+}
+body{
       margin: 0;
       padding: 0;
       background: url(bg.jpg);
@@ -10,8 +13,8 @@
       background-size: cover;
       background-attachment: fixed;
       background-color: #464646;
-    }
 }
+
 @viewport {
   width: device-width ;
   zoom: 1.0 ;
