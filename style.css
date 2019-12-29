@@ -65,8 +65,9 @@ ul {
 
 .box li {
   display: inline-block;
-  margin: 6px;
+  margin-left: 25px;
   list-style: none;
+  letter-spacing: 35px;
 }
 
 .box li a {
