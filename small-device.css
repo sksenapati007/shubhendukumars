@@ -28,13 +28,13 @@ body {
 
 .box {
     width: 950px;
-    height: 1640px;
+    height: 1540px;
     background: rgba(0, 0, 0, 0.4);
     padding: 40px;
     text-align: center;
     border-radius: 115px;
     border: 8px solid gold;
-    margin: 45px 15px;
+    margin: 95px 15px;
     /* margin-top: 45px; */
     color: floralwhite;
     font-size: 30px;
@@ -69,20 +69,22 @@ body {
 }
 
 ul {
-    margin: 0;
-    padding: 0;
+    margin: 0px;
+    padding: 0px;
 }
 
 .box li {
-    display: flex;
-    margin: 0px 0px 0px 396px;
+    /* display: flex; */
+    /* margin: 0px 0px 0px 396px; */
+    margin: 0px 0px 0px 45px;
     list-style: none;
+    letter-spacing: 45px;
 }
 
 .box li a {
     color: ghostwhite;
     text-decoration: none;
-    font-size: 70px;
+    font-size: 115px;
     transition: all ease-in-out 250ms;
 }
 
