@@ -13,10 +13,9 @@ body {
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
-    background-position: -375px;
+    /* background-position: -375px; */
     height: 100%;
     /* overflow: hidden; */
-    overflow-y: scroll;
     background-size: cover;
     background-color: #6F1F4F;
 }
