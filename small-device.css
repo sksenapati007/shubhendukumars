@@ -14,7 +14,8 @@ body {
     -moz-background-size: cover;
     -o-background-size: cover;
     height: 100%;
-    overflow: hidden;
+    /* overflow: hidden; */
+    overflow-y: scroll;
     background-size: cover;
     background-color: #6F1F4F;
 }
