@@ -1,6 +1,6 @@
 @media only screen and (max-device-width: 480px) {
     .box {
-        margin-top: 150px;
+        /* margin-top: 150px; */
         float: none;
         width: 1200px;
     }
