@@ -1,7 +1,7 @@
 body {
   margin: 0;
   padding: 0;
-  /*      background: url(bg.jpg) center center fixed;*/
+  background: url(bg.jpg) center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -43,14 +43,14 @@ body {
 .box h1 {
   font-size: 40px;
   letter-spacing: 4px;
-  font-weight: 100;
+  font-weight: 600;
   display: inline-block;
 }
 
 .box h5 {
   font-size: 20px;
   letter-spacing: 3px;
-  font-weight: 100;
+  font-weight: 400;
   display: inline-block;
 }
 
@@ -77,5 +77,5 @@ ul {
 }
 
 .box li a:hover {
-  color: gold;
+  color: darkblue;
 }
