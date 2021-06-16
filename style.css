@@ -6,7 +6,7 @@ body {
   -moz-background-size: cover;
   -o-background-size: cover;
   height: 100%;
-  overflow: hidden;
+  overflow-x: hidden;
   background-size: cover;
   background-color: #6F1F4F;
 }
